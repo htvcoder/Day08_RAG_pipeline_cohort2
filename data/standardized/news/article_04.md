@@ -1,0 +1,147 @@
+# Ca sĩ Chu Bin bị bắt vì liên quan ma túy
+
+**Source:** vtv.vn
+**URL:** https://vtv.vn/phap-luat/ca-si-chu-bin-bi-bat-vi-lien-quan-ma-tuy-20240607115007528.htm
+**Crawled:** 2026-06-08T21:54:58.350615
+
+---
+
+[ ![img](https://static.mediacdn.vn/vtv.vn/images/logo.png) ](https://vtv.vn/ "Thời báo VTV - Đài Truyền hình Việt Nam | VTV.vn")
+Thứ Hai, 8/6/2026 Hà Nội, 
+![Mưa nhỏ](https://static.mediacdn.vn/images/icon_weather/mua-phun.png) 25° - 38°C
+[ Truyền hình trực tuyến ](https://vtv.vn/truyen-hinh-truc-tuyen/vtv1.htm "Truyền hình trực tuyến") [ Cổng thông tin ](https://vtv.gov.vn/ "Cổng thông tin VTV") [ English ](http://english.vtv.vn/ "English version") [ ](https://www.facebook.com/baodientuvtv "Facebook vtv.vn")
+[ ](javascript:; "Tìm kiếm")
+[ ](javascript:; "Tìm kiếm")
+[ Đăng nhập ](javascript:; "Đăng nhập")
+[ ![icon](https://static.mediacdn.vn/vtv.vn/images/user-defaultlogin.svg) ](https://vtv.vn/thong-tin-tai-khoan.htm "Thông tin tài khoản")
+![thông tin tài khoản](https://static.mediacdn.vn/vtv.vn/images/user-defaultlogin.svg) [ ](https://vtv.vn/thong-tin-tai-khoan.htm "thông tin tài khoản")
+  * [Thông tin tài khoản](https://vtv.vn/thong-tin-tai-khoan.htm "Thông tin tài khoản")
+  * [Đăng xuất](javascript:; "Đăng xuất")
+
+
+[ ](https://vtv.vn/ "Trang chủ")
+[chính trị](https://vtv.vn/chinh-tri.htm "Chính trị") [xã hội](https://vtv.vn/xa-hoi.htm "Xã hội") [pháp luật](https://vtv.vn/phap-luat.htm "Pháp luật") [Thế giới](https://vtv.vn/the-gioi.htm "Thế giới") [kinh tế](https://vtv.vn/kinh-te.htm "Kinh tế") [truyền hình](https://vtv.vn/truyen-hinh.htm "Truyền hình") [giải trí](https://vtv.vn/van-hoa-giai-tri.htm "Văn hóa - Giải trí") [Y tế](https://vtv.vn/y-te.htm "Y tế") [đời sống](https://vtv.vn/doi-song.htm "Đời sống") [công nghệ](https://vtv.vn/cong-nghe.htm "Công nghệ") [giáo dục](https://vtv.vn/giao-duc.htm "Giáo dục") [video](https://vtv.vn/video.htm "Video") [podcast](https://vtv.vn/podcast.htm "Podcast")
+[ ](javascript:; "Menu")
+[ Chính trị ](https://vtv.vn/chinh-tri.htm "Chính trị")
+[ Xã hội ](https://vtv.vn/xa-hoi.htm " Xã hội")
+[ Pháp luật ](https://vtv.vn/phap-luat.htm "Pháp luật")
+[ Y tế ](https://vtv.vn/y-te.htm "Y tế")
+[ Thế giới ](https://vtv.vn/the-gioi.htm "Thế giới") [ Tin tức ](https://vtv.vn/the-gioi/tin-tuc.htm "Tin tức") [ Thế giới đó đây ](https://vtv.vn/the-gioi/the-gioi-do-day.htm " Thế giới đó đây") [ Câu chuyện quốc tế ](https://vtv.vn/dong-su-kien/da-chieu-cau-chuyen-quoc-te-238.htm "Câu chuyện quốc tế")
+[ Kinh tế ](https://vtv.vn/kinh-te.htm "Kinh tế") [ Tài chính ](https://vtv.vn/kinh-te/tai-chinh.htm "Tài chính") [ Thị trường ](https://vtv.vn/kinh-te/thi-truong.htm "Thị trường") [ Góc doanh nghiệp ](https://vtv.vn/kinh-te/goc-doanh-nghiep.htm "Góc doanh nghiệp") [ **Dữ liệu và đời sống** ](https://vtv.vn/du-lieu-va-doi-song.htm "Dữ liệu và đời sống")
+[ Truyền hình ](https://vtv.vn/truyen-hinh.htm "Truyền hình") [ Phim VTV ](https://vtv.vn/truyen-hinh/phim-vtv.htm "Phim VTV") [ Hậu trường ](https://vtv.vn/truyen-hinh/hau-truong.htm "Hậu trường") [ Nhân vật ](https://vtv.vn/truyen-hinh/nhan-vat.htm "Nhân vật") [ Khán giả ](https://vtv.vn/truyen-hinh/goc-khan-gia.htm "Khán giả") [ Giải sao mai ](https://vtv.vn/truyen-hinh/giai-sao-mai.htm "Giải sao mai")
+Multimedia 
+[ Video ](https://vtv.vn/video.htm "Video") [ Shorts video ](https://vtv.vn/shorts-video.htm "Shorts video") [ Podcast ](https://vtv.vn/podcast.htm "Podcast") [ EMagazine ](https://vtv.vn/magazine.htm "EMagazine") [ Photo ](https://vtv.vn/thu-vien-anh.htm "Photo") [ Infographic ](https://vtv.vn/infographic.htm "Infographic") [ Góc ảnh ](https://vtv.vn/thu-vien-anh.htm "Góc ảnh")
+[ Giải trí ](https://vtv.vn/van-hoa-giai-tri.htm "Giải trí") [ Điện ảnh ](https://vtv.vn/van-hoa-giai-tri/dien-anh.htm " Điện ảnh") [ Âm nhạc ](https://vtv.vn/van-hoa-giai-tri/am-nhac.htm "Âm nhạc") [ Sao ](https://vtv.vn/van-hoa-giai-tri/sao.htm "Sao")
+[ Đời sống ](https://vtv.vn/doi-song.htm "Đời sống") [ Du lịch ](https://vtv.vn/doi-song/du-lich.htm "Du lịch") [ Làm đẹp ](https://vtv.vn/doi-song/lam-dep.htm "Làm đẹp") [ Chất lượng cuộc sống ](https://vtv.vn/dong-su-kien/chat-luong-cuoc-song-268.htm "Chất lượng cuộc sống")
+[ Giáo dục ](https://vtv.vn/giao-duc.htm "Giáo dục") [ Tuyển sinh ](https://vtv.vn/giao-duc/tuyen-sinh.htm "Tuyển sinh") [ Học trực tuyến ](https://vtv.vn/giao-duc/hoc-truc-tuyen.htm "Học trực tuyến")
+[ Công nghệ ](https://vtv.vn/cong-nghe.htm "Công nghệ") [ Hitech Công nghệ tương lai ](https://vtv.vn/cong-nghe/hitech-cong-nghe-tuong-lai.htm "Hitech Công nghệ tương lai") [ Sản phẩm ](https://vtv.vn/cong-nghe/san-pham.htm "Sản phẩm") [ Thị trường ](https://vtv.vn/cong-nghe/thi-truong.htm "Thị trường") [ Tư vấn ](https://vtv.vn/cong-nghe/tu-van.htm "Tư vấn")
+[ VTV Money ](https://money.vtv.vn/ "VTV Money") [ VTV Thể thao ](https://thethao.vtv.vn/ "VTV Thể thao") [ VTV Sức khoẻ ](https://suckhoe.vtv.vn/ "VTV Sức khoẻ") [ Bất động sản ](https://batdongsan.vtv.vn/ "Bất động sản") [ Thị trường 24h ](https://thitruong24h.vtv.vn/ "Thị trường 24h") [ Tấm lòng Việt ](https://vtv.vn/tam-long-viet.htm "Tấm lòng Việt") [ Vươn mình bằng AI ](https://vtv.vn/vuon-minh-bang-ai.htm "Vươn mình bằng AI") [ VTV4 ](https://vtv4.vtv.vn/ "vtv4") [ VTV8 ](https://vtv8.vtv.vn/ "VTV8") [ VTV9 ](https://vtv9.vtv.vn/ "VTV9")
+[ Lịch phát sóng ](https://vtv.vn/lich-phat-song.htm "Lịch phát sóng") [ Giao lưu trực tuyến ](https://vtv.vn/truc-tuyen.htm "Giao lưu trực tuyến") [ Sự kiện ](https://vtv.vn/danh-sach-su-kien.htm "Sự kiện")
+[ Liên hệ toà soạn ](https://vtv.vn/lien-he-toa-soan.htm "Liên hệ toà soạn")
+[ ](javascript:; "Facebook") [ ](javascript:; "Copy link") [ ](javacript:; "Bình luận") 0 [ ](https://vtv.vn/print/phap-luat/ca-si-chu-bin-bi-bat-vi-lien-quan-ma-tuy-20240607115007528.htm "In") [ ](javascript:; "Lưu tin")
+[ ](javascript:; "Tăng") [ ](javascript:; "Giảm")
+[Pháp luật](https://vtv.vn/phap-luat.htm "Pháp luật")
+# Ca sĩ Chu Bin bị bắt vì liên quan ma túy
+PV 
+07/06/2024 13:11 GMT+7 
+[ ![img](https://static.mediacdn.vn/VTV/web/images/gg.png) ](https://news.google.com/publications/CAAqBwgKMJWGtgswoqHNAw?hl=vi&gl=VN&ceid=VN%3Avi "Google News")
+[ Chia sẻ ](javascript:; "Chia sẻ facebook")
+VTV.vn - Chu Đăng Thanh (ca sĩ Chu Bin) cùng một số người khác bị Công an Quận 10 tạm giữ vì nghi vấn liên quan đến tổ chức, sử dụng trái phép chất ma túy. 
+Công an Quận 10 (TP Hồ Chí Minh) thông tin đang tạm giữ Chu Đăng Thanh ([ca sĩ Chu Bin](http://vtv.vn/ca-si-chu-bin.html "ca sĩ Chu Bin"), SN 1985, trú tại TP Buôn Mê Thuột, tỉnh Đắk Lắk) cùng một số người khác để điều tra hành vi tổ chức, sử dụng trái phép chất ma túy.
+Trước đó, ngày 4/6, Công an Quận 10 kiểm tra một căn nhà trên địa bàn, qua đó phát hiện một nhóm khoảng 6 người đang tổ chức, sử dụng trái phép chất ma túy, trong đó có Chu Bin.
+Sau đó, lực lượng Công an đã đưa tất cả những người này về trụ sở để điều tra, đồng thời triệu tập thêm một số người liên quan.
+Đến tối 6/6, Chu Bin được thả sau khi bị xử phạt hành chính, 4 người khác vẫn bị tạm giữ. Hiện vụ việc vẫn đang được điều tra, làm rõ, xử lý theo quy định pháp luật.
+Chu Bin bén duyên với nghệ thuật từ khi còn học lớp 12. Chu Bin trước khi trở thành ca sĩ từng là vận động viên đoạt huy chương bạc giải Taekwondo toàn quốc và là huấn luyện viên võ thuật.
+Năm 2005, Chu Bin vào TP Hồ Chí Minh để lập nghiệp, gia nhập một đoàn hát để đi lưu diễn khắp các tỉnh miền Tây. Sau đó, nam ca sĩ đầu quân về một công ty âm nhạc, có thời gian ngắn lập nhóm song ca Bin - Ken.
+Năm 2007, Chu Bin tham gia một cuộc thi âm nhạc lớn và lọt vào top 30. Năm 2008, Chu Bin đoạt giải Album Vàng. Từ đây nam ca sĩ được nhiều người biết đến và đắt show hơn.  
+
+Chu Bin đã phát hành nhiều album như: _Xuân lộc vàng, Hãy tin anh lần nữa, Em của ngày hôm nay, Anh đã sai, Người dưng, Anh chỉ cần bên em, Hãy xem là giấc mơ..._  
+
+[ ![Đang trốn truy nã, nữ quái bị bắt vì mua bán ma túy](https://cdn-images.vtv.vn/zoom/150_120/66349b6076cb4dee98746cf1/2024/06/06/ma-tuy-1-30556392885493182961733-28780587693355734530547.jpg) ](http://vtv.vn/phap-luat/dang-tron-truy-na-nu-quai-bi-bat-vi-mua-ban-ma-tuy-20240606222207196.htm)[Đang trốn truy nã, nữ quái bị bắt vì mua bán ma túy](http://vtv.vn/phap-luat/dang-tron-truy-na-nu-quai-bi-bat-vi-mua-ban-ma-tuy-20240606222207196.htm)
+VTV.vn - Đang trốn truy nã, Hoàng Thị Thu Hiền tiếp tục bị Công an phường Phúc La, quận Hà Đông (Hà Nội) bắt giữ để điều tra hành vi mua bán trái phép chất ma túy.
+##  Tin liên quan 
+[ ![Tạm giữ hình sự đối tượng chuyên trộm xe mô tô bán lấy tiền mua ma túy](https://cdn-images.vtv.vn/zoom/205_128/66349b6076cb4dee98746cf1/2024/06/06/z5513549722859-33af11d75157fd2ea93a81ceac6a0036-77424809924825175009584-09879768667768197754292.jpg) ](https://vtv.vn/phap-luat/tam-giu-hinh-su-doi-tuong-chuyen-trom-xe-mo-to-ban-lay-tien-mua-ma-tuy-20240606213401593.htm "Tạm giữ hình sự đối tượng chuyên trộm xe mô tô bán lấy tiền mua ma túy")
+###  [Tạm giữ hình sự đối tượng chuyên trộm xe mô tô bán lấy tiền mua ma túy](https://vtv.vn/phap-luat/tam-giu-hinh-su-doi-tuong-chuyen-trom-xe-mo-to-ban-lay-tien-mua-ma-tuy-20240606213401593.htm "Tạm giữ hình sự đối tượng chuyên trộm xe mô tô bán lấy tiền mua ma túy")
+VTV.vn - Ngày 6/6, Công an huyện Châu Thành (Bến Tre) đã tạm giữ hình sự Nguyễn Hoàng Minh (SN 1986) ngụ xã Tân Phú, huyện Châu Thành để điều tra về hành vi trộm cắp tài sản.
+[ ![Bắt đối tượng mua bán ma túy sau hơn 1 năm lẩn trốn](https://cdn-images.vtv.vn/zoom/205_128/66349b6076cb4dee98746cf1/2024/06/06/ma-tuy-3ce13bbe-8cd8-4942-a56f-726a18c7c91b-af22c02e-d4fc-416b-b205-3239963023b8.png) ](https://vtv.vn/phap-luat/bat-doi-tuong-mua-ban-ma-tuy-sau-hon-1-nam-lan-tron-2024060616253768.htm "Bắt đối tượng mua bán ma túy sau hơn 1 năm lẩn trốn")
+###  [Bắt đối tượng mua bán ma túy sau hơn 1 năm lẩn trốn](https://vtv.vn/phap-luat/bat-doi-tuong-mua-ban-ma-tuy-sau-hon-1-nam-lan-tron-2024060616253768.htm "Bắt đối tượng mua bán ma túy sau hơn 1 năm lẩn trốn")
+[ ![Bắt giữ đối tượng cướp giật, khám phá thêm ổ nhóm sử dụng ma túy](https://cdn-images.vtv.vn/zoom/205_128/66349b6076cb4dee98746cf1/2024/06/05/screenshot-2024-06-05-213238-b65897fa-9b05-4003-b441-b2e3e944b97e-72061441-e1a3-42a2-baec-e2c04bc9f102.png) ](https://vtv.vn/phap-luat/bat-giu-doi-tuong-cuop-giat-kham-pha-them-o-nhom-su-dung-ma-tuy-20240605181722734.htm "Bắt giữ đối tượng cướp giật, khám phá thêm ổ nhóm sử dụng ma túy")
+###  [Bắt giữ đối tượng cướp giật, khám phá thêm ổ nhóm sử dụng ma túy](https://vtv.vn/phap-luat/bat-giu-doi-tuong-cuop-giat-kham-pha-them-o-nhom-su-dung-ma-tuy-20240605181722734.htm "Bắt giữ đối tượng cướp giật, khám phá thêm ổ nhóm sử dụng ma túy")
+[ ![Bắt quả tang 10 đối tượng sử dụng ma túy tập thể trong nhà trọ](https://cdn-images.vtv.vn/zoom/205_128/66349b6076cb4dee98746cf1/2024/06/03/su-dung-may-tuy-1--8067813f-3b68-45fe-87f5-5cccd6482a02-4156901a-57a8-4093-99be-7b03884cef2f.jpg) ](https://vtv.vn/phap-luat/bat-qua-tang-10-doi-tuong-su-dung-ma-tuy-tap-the-trong-nha-tro-2024060321560701.htm "Bắt quả tang 10 đối tượng sử dụng ma túy tập thể trong nhà trọ")
+###  [Bắt quả tang 10 đối tượng sử dụng ma túy tập thể trong nhà trọ](https://vtv.vn/phap-luat/bat-qua-tang-10-doi-tuong-su-dung-ma-tuy-tap-the-trong-nha-tro-2024060321560701.htm "Bắt quả tang 10 đối tượng sử dụng ma túy tập thể trong nhà trọ")
+[ 0 ](javascript:;) [ 0 ](javascript:;)
+[ ](javascript:;) [ ](javascript:;)
+[ Bài đọc hay? Thả tim cho bài đọc ](javascript:;)
+[ ](javascript:; "Facebook") [ ](javascript:; "Zalo") [ ](javascript:; "Twitter")
+Từ khóa: 
+[ ma túy ](https://vtv.vn/ma-tuy.html "ma túy") [ sử dụng ma túy ](https://vtv.vn/su-dung-ma-tuy.html " sử dụng ma túy") [ Chu Bin ](https://vtv.vn/chu-bin.html " Chu Bin") [ sử dụng trái phép chất ma túy ](https://vtv.vn/su-dung-trai-phep-chat-ma-tuy.html " sử dụng trái phép chất ma túy") [ ca sĩ Chu Bin ](https://vtv.vn/ca-si-chu-bin.html " ca sĩ Chu Bin") [ Chu Đăng Thanh ](https://vtv.vn/chu-dang-thanh.html " Chu Đăng Thanh")
+Bình luận (0)
+😀😁😂🤣😃😄😅😆😉😊😋😎😍😘🥰😗😙😚🙂🤗🤩🤔🤨😐😑😶🙄😏😣😥😮🤐😯😪😫😴😌😛😜😝🤤😒😓😔😕🙃🤑😲☹️🙁😖😞😟😤😢😭😦😧😨😩🤯😬😰😱🥵🥶😳🤪😵😡😠🤬😷🤒🤕🤢🤮🤧😇🤠🤡🥳🥴🥺🤥🤫🤭🧐🤓😈👿👹👺💀👻👽🤖💩😺😸😹😻😼😽🙀😿😾
+[Gửi bình luận](javascript:;)
+[Quan tâm nhất](javascript:;) [Mới nhất](javascript:;)
+[Xem tất cả bình luận](javascript:;)
+## Xem nhiều
+[![Thêm 5 thủ tục hành chính mới về an toàn bức xạ và hạt nhân](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/08/dien-hat-nhan-935-17351353745601739765438-13614355980423910645949-02267994808157224904503.jpg)](https://vtv.vn/them-5-thu-tuc-hanh-chinh-moi-ve-an-toan-buc-xa-va-hat-nhan-100260608191603657.htm "Thêm 5 thủ tục hành chính mới về an toàn bức xạ và hạt nhân")
+### [Thêm 5 thủ tục hành chính mới về an toàn bức xạ và hạt nhân](https://vtv.vn/them-5-thu-tuc-hanh-chinh-moi-ve-an-toan-buc-xa-va-hat-nhan-100260608191603657.htm "Thêm 5 thủ tục hành chính mới về an toàn bức xạ và hạt nhân")
+[![Nhân vật AI trên mạng xã hội ngày càng khó nhận biết](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/08/2151403800-69208248588262844428713-57108842402392103368675.jpg)](https://vtv.vn/nhan-vat-ai-tren-mang-xa-hoi-ngay-cang-kho-nhan-biet-100260608192321941.htm "Nhân vật AI trên mạng xã hội ngày càng khó nhận biết")
+### [Nhân vật AI trên mạng xã hội ngày càng khó nhận biết](https://vtv.vn/nhan-vat-ai-tren-mang-xa-hoi-ngay-cang-kho-nhan-biet-100260608192321941.htm "Nhân vật AI trên mạng xã hội ngày càng khó nhận biết")
+[![Nvidia đặt cược vào thị trường AI PC](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/08/nvidia-rtx-spark-36717940582425932962378-96282569497291924152845.png)](https://vtv.vn/nvidia-dat-cuoc-vao-thi-truong-ai-pc-100260608192846482.htm "Nvidia đặt cược vào thị trường AI PC")
+### [Nvidia đặt cược vào thị trường AI PC](https://vtv.vn/nvidia-dat-cuoc-vao-thi-truong-ai-pc-100260608192846482.htm "Nvidia đặt cược vào thị trường AI PC")
+[![Nghiên cứu xây dựng cơ chế, chính sách đặc thù phát triển thành phố Đồng Nai](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/08/dong-nai-63896611184050818746833-39943912159718954605572.png)](https://vtv.vn/nghien-cuu-xay-dung-co-che-chinh-sach-dac-thu-phat-trien-thanh-pho-dong-nai-100260608211115991.htm "Nghiên cứu xây dựng cơ chế, chính sách đặc thù phát triển thành phố Đồng Nai")
+### [Nghiên cứu xây dựng cơ chế, chính sách đặc thù phát triển thành phố Đồng Nai](https://vtv.vn/nghien-cuu-xay-dung-co-che-chinh-sach-dac-thu-phat-trien-thanh-pho-dong-nai-100260608211115991.htm "Nghiên cứu xây dựng cơ chế, chính sách đặc thù phát triển thành phố Đồng Nai")
+[![Apple chuẩn bị công bố chiến lược AI mới](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/08/tai-xuong--2--60431588657602956493198-05045884589844863203783.webp)](https://vtv.vn/apple-chuan-bi-cong-bo-chien-luoc-ai-moi-100260608193227018.htm "Apple chuẩn bị công bố chiến lược AI mới")
+### [Apple chuẩn bị công bố chiến lược AI mới](https://vtv.vn/apple-chuan-bi-cong-bo-chien-luoc-ai-moi-100260608193227018.htm "Apple chuẩn bị công bố chiến lược AI mới")
+[![Xu hướng “nhảy việc” của giới trẻ: Không ngại bắt đầu lại](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/08/screenshot-2026-06-08-204818-79599187525713743837818-95085174559281309761701.png)](https://vtv.vn/xu-huong-nhay-viec-cua-gioi-tre-khong-ngai-bat-dau-lai-100260608203000832.htm "Xu hướng “nhảy việc” của giới trẻ: Không ngại bắt đầu lại")
+### [Xu hướng “nhảy việc” của giới trẻ: Không ngại bắt đầu lại](https://vtv.vn/xu-huong-nhay-viec-cua-gioi-tre-khong-ngai-bat-dau-lai-100260608203000832.htm "Xu hướng “nhảy việc” của giới trẻ: Không ngại bắt đầu lại")
+##  Xem nhiều 
+[ ![Triệt phá đường dây sản xuất vũ khí quân dụng quy mô lớn, thu giữ gần 200 linh kiện súng](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/06/screenshot-2026-06-06-201148-72277850709229528276614-51504738983106757867778.png) ](https://vtv.vn/triet-pha-duong-day-san-xuat-vu-khi-quan-dung-quy-mo-lon-thu-giu-gan-200-linh-kien-sung-10026060620130985.htm "Triệt phá đường dây sản xuất vũ khí quân dụng quy mô lớn, thu giữ gần 200 linh kiện súng")
+###  [Triệt phá đường dây sản xuất vũ khí quân dụng quy mô lớn, thu giữ gần 200 linh kiện súng](https://vtv.vn/triet-pha-duong-day-san-xuat-vu-khi-quan-dung-quy-mo-lon-thu-giu-gan-200-linh-kien-sung-10026060620130985.htm "Triệt phá đường dây sản xuất vũ khí quân dụng quy mô lớn, thu giữ gần 200 linh kiện súng")
+[ ![Giao xe cho con chưa đủ tuổi, người mẹ bị truy cứu trách nhiệm hình sự](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/06/package-media-04275081334148981621255-64785100818203999213099.png) ](https://vtv.vn/giao-xe-cho-con-chua-du-tuoi-nguoi-me-bi-truy-cuu-trach-nhiem-hinh-su-100260606200942349.htm "Giao xe cho con chưa đủ tuổi, người mẹ bị truy cứu trách nhiệm hình sự")
+###  [Giao xe cho con chưa đủ tuổi, người mẹ bị truy cứu trách nhiệm hình sự](https://vtv.vn/giao-xe-cho-con-chua-du-tuoi-nguoi-me-bi-truy-cuu-trach-nhiem-hinh-su-100260606200942349.htm "Giao xe cho con chưa đủ tuổi, người mẹ bị truy cứu trách nhiệm hình sự")
+[ ![Bắt giữ 9 người trong đường dây chuyên trộm và tiêu thụ chó ở Tây Ninh](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/06/package-media-01824842740748471736473-03766466694192335873338.png) ](https://vtv.vn/bat-giu-9-nguoi-trong-duong-day-chuyen-trom-va-tieu-thu-cho-o-tay-ninh-100260606195805528.htm "Bắt giữ 9 người trong đường dây chuyên trộm và tiêu thụ chó ở Tây Ninh")
+###  [Bắt giữ 9 người trong đường dây chuyên trộm và tiêu thụ chó ở Tây Ninh](https://vtv.vn/bat-giu-9-nguoi-trong-duong-day-chuyen-trom-va-tieu-thu-cho-o-tay-ninh-100260606195805528.htm "Bắt giữ 9 người trong đường dây chuyên trộm và tiêu thụ chó ở Tây Ninh")
+[ ![Triệt phá 2 cơ sở kinh doanh hàng giả, thu giữ gần 2.000 sản phẩm vi phạm tại Quảng Trị](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/06/package-media-44467926001665521909711-27452035787213353574581.png) ](https://vtv.vn/triet-pha-2-co-so-kinh-doanh-hang-gia-thu-giu-gan-2000-san-pham-vi-pham-tai-quang-tri-100260606212823391.htm "Triệt phá 2 cơ sở kinh doanh hàng giả, thu giữ gần 2.000 sản phẩm vi phạm tại Quảng Trị")
+###  [Triệt phá 2 cơ sở kinh doanh hàng giả, thu giữ gần 2.000 sản phẩm vi phạm tại Quảng Trị](https://vtv.vn/triet-pha-2-co-so-kinh-doanh-hang-gia-thu-giu-gan-2000-san-pham-vi-pham-tai-quang-tri-100260606212823391.htm "Triệt phá 2 cơ sở kinh doanh hàng giả, thu giữ gần 2.000 sản phẩm vi phạm tại Quảng Trị")
+[ ![Triệt xóa điểm mua bán, sử dụng trái phép chất ma túy tại công trường xây dựng ](https://cdn-images.vtv.vn/zoom/107_67/66349b6076cb4dee98746cf1/2026/06/06/1--2--2--52359811577273271622023-22214922632674018181487.jpg) ](https://vtv.vn/triet-xoa-diem-mua-ban-su-dung-trai-phep-chat-ma-tuy-tai-cong-truong-xay-dung-100260606200530784.htm "Triệt xóa điểm mua bán, sử dụng trái phép chất ma túy tại công trường xây dựng ")
+###  [Triệt xóa điểm mua bán, sử dụng trái phép chất ma túy tại công trường xây dựng ](https://vtv.vn/triet-xoa-diem-mua-ban-su-dung-trai-phep-chat-ma-tuy-tai-cong-truong-xay-dung-100260606200530784.htm "Triệt xóa điểm mua bán, sử dụng trái phép chất ma túy tại công trường xây dựng ")
+##  Tin cùng chuyên mục 
+Xem theo ngày 
+Ngày 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 Tháng Tháng 1 Tháng 2 Tháng 3 Tháng 4 Tháng 5 Tháng 6 Tháng 7 Tháng 8 Tháng 9 Tháng 10 Tháng 11 Tháng 12 Năm 2026 2025 2024 2023 2022 2021 2020 2019 [XEM](javascript:;)
+[ ![Bỏ trốn sau vụ đánh nhau vì chỗ đỗ xe, người đàn ông bị truy tố vắng mặt](https://cdn-images.vtv.vn/zoom/227_142/66349b6076cb4dee98746cf1/2026/06/07/anphattu-1779266017665570566332-02970743376739987969146-79105595188183431742703.png) ](https://vtv.vn/bo-tron-sau-vu-danh-nhau-vi-cho-do-xe-nguoi-dan-ong-bi-truy-to-vang-mat-10026060719155692.htm "Bỏ trốn sau vụ đánh nhau vì chỗ đỗ xe, người đàn ông bị truy tố vắng mặt")
+###  [Bỏ trốn sau vụ đánh nhau vì chỗ đỗ xe, người đàn ông bị truy tố vắng mặt](https://vtv.vn/bo-tron-sau-vu-danh-nhau-vi-cho-do-xe-nguoi-dan-ong-bi-truy-to-vang-mat-10026060719155692.htm "Bỏ trốn sau vụ đánh nhau vì chỗ đỗ xe, người đàn ông bị truy tố vắng mặt")
+[ ![Công an Hà Nội liên tiếp phát hiện các vụ đánh bạc, cá cược trực tuyến](https://cdn-images.vtv.vn/zoom/227_142/66349b6076cb4dee98746cf1/2026/06/07/vov-06219400192947499514675-20705563051809024214909.webp) ](https://vtv.vn/cong-an-ha-noi-lien-tiep-phat-hien-cac-vu-danh-bac-ca-cuoc-truc-tuyen-100260607185751675.htm "Công an Hà Nội liên tiếp phát hiện các vụ đánh bạc, cá cược trực tuyến")
+###  [Công an Hà Nội liên tiếp phát hiện các vụ đánh bạc, cá cược trực tuyến](https://vtv.vn/cong-an-ha-noi-lien-tiep-phat-hien-cac-vu-danh-bac-ca-cuoc-truc-tuyen-100260607185751675.htm "Công an Hà Nội liên tiếp phát hiện các vụ đánh bạc, cá cược trực tuyến")
+[ ![Vụ khiêng quan tài có người sống bên trong giữa phố: Công an mời những người liên quan làm việc](https://cdn-images.vtv.vn/zoom/227_142/66349b6076cb4dee98746cf1/2026/06/07/plo-2-30115942769802512516286-46179326496757250660442.webp) ](https://vtv.vn/vu-khieng-quan-tai-co-nguoi-song-ben-trong-giua-pho-cong-an-moi-nhung-nguoi-lien-quan-lam-viec-10026060718283885.htm "Vụ khiêng quan tài có người sống bên trong giữa phố: Công an mời những người liên quan làm việc")
+###  [Vụ khiêng quan tài có người sống bên trong giữa phố: Công an mời những người liên quan làm việc](https://vtv.vn/vu-khieng-quan-tai-co-nguoi-song-ben-trong-giua-pho-cong-an-moi-nhung-nguoi-lien-quan-lam-viec-10026060718283885.htm "Vụ khiêng quan tài có người sống bên trong giữa phố: Công an mời những người liên quan làm việc")
+[ ![Bắt nguyên Trưởng Ban Tổ chức Tỉnh ủy Sóc Trăng cũ](https://cdn-images.vtv.vn/zoom/227_142/66349b6076cb4dee98746cf1/2026/06/07/can-tho-1895-24761557588273473117047-26977607121060624383560.jpg) ](https://vtv.vn/bat-nguyen-truong-ban-to-chuc-tinh-uy-soc-trang-cu-100260607145858907.htm "Bắt nguyên Trưởng Ban Tổ chức Tỉnh ủy Sóc Trăng cũ")
+###  [Bắt nguyên Trưởng Ban Tổ chức Tỉnh ủy Sóc Trăng cũ](https://vtv.vn/bat-nguyen-truong-ban-to-chuc-tinh-uy-soc-trang-cu-100260607145858907.htm "Bắt nguyên Trưởng Ban Tổ chức Tỉnh ủy Sóc Trăng cũ")
+[ ![Phú Thọ: Tạm giữ hình sự 2 đối tượng lao xe vào CSGT làm nhiệm vụ](https://cdn-images.vtv.vn/zoom/227_142/66349b6076cb4dee98746cf1/2026/06/07/package-media-52749885022957336037558-90532335298022911972551.png) ](https://vtv.vn/phu-tho-tam-giu-hinh-su-2-doi-tuong-lao-xe-vao-csgt-lam-nhiem-vu-100260607141914984.htm "Phú Thọ: Tạm giữ hình sự 2 đối tượng lao xe vào CSGT làm nhiệm vụ")
+###  [Phú Thọ: Tạm giữ hình sự 2 đối tượng lao xe vào CSGT làm nhiệm vụ](https://vtv.vn/phu-tho-tam-giu-hinh-su-2-doi-tuong-lao-xe-vao-csgt-lam-nhiem-vu-100260607141914984.htm "Phú Thọ: Tạm giữ hình sự 2 đối tượng lao xe vào CSGT làm nhiệm vụ")
+[ ![Triệt phá 2 cơ sở kinh doanh hàng giả, thu giữ gần 2.000 sản phẩm vi phạm tại Quảng Trị](https://cdn-images.vtv.vn/zoom/227_142/66349b6076cb4dee98746cf1/2026/06/06/package-media-44467926001665521909711-27452035787213353574581.png) ](https://vtv.vn/triet-pha-2-co-so-kinh-doanh-hang-gia-thu-giu-gan-2000-san-pham-vi-pham-tai-quang-tri-100260606212823391.htm "Triệt phá 2 cơ sở kinh doanh hàng giả, thu giữ gần 2.000 sản phẩm vi phạm tại Quảng Trị")
+###  [Triệt phá 2 cơ sở kinh doanh hàng giả, thu giữ gần 2.000 sản phẩm vi phạm tại Quảng Trị](https://vtv.vn/triet-pha-2-co-so-kinh-doanh-hang-gia-thu-giu-gan-2000-san-pham-vi-pham-tai-quang-tri-100260606212823391.htm "Triệt phá 2 cơ sở kinh doanh hàng giả, thu giữ gần 2.000 sản phẩm vi phạm tại Quảng Trị")
+[ ![Triệt phá đường dây sản xuất vũ khí quân dụng quy mô lớn, thu giữ gần 200 linh kiện súng](https://cdn-images.vtv.vn/zoom/227_142/66349b6076cb4dee98746cf1/2026/06/06/screenshot-2026-06-06-201148-72277850709229528276614-51504738983106757867778.png) ](https://vtv.vn/triet-pha-duong-day-san-xuat-vu-khi-quan-dung-quy-mo-lon-thu-giu-gan-200-linh-kien-sung-10026060620130985.htm "Triệt phá đường dây sản xuất vũ khí quân dụng quy mô lớn, thu giữ gần 200 linh kiện súng")
+###  [Triệt phá đường dây sản xuất vũ khí quân dụng quy mô lớn, thu giữ gần 200 linh kiện súng](https://vtv.vn/triet-pha-duong-day-san-xuat-vu-khi-quan-dung-quy-mo-lon-thu-giu-gan-200-linh-kien-sung-10026060620130985.htm "Triệt phá đường dây sản xuất vũ khí quân dụng quy mô lớn, thu giữ gần 200 linh kiện súng")
+[ ](https://vtv.vn/ "Trang chủ") [chính trị](https://vtv.vn/chinh-tri.htm "Chính trị") [xã hội](https://vtv.vn/xa-hoi.htm "Xã hội") [pháp luật](https://vtv.vn/phap-luat.htm "Pháp luật") [Thế giới](https://vtv.vn/the-gioi.htm "Thế giới") [kinh tế](https://vtv.vn/kinh-te.htm "Kinh tế") [truyền hình](https://vtv.vn/truyen-hinh.htm "Truyền hình") [giải trí](https://vtv.vn/van-hoa-giai-tri.htm "Văn hóa - Giải trí") [Y tế](https://vtv.vn/y-te.htm "Y tế") [đời sống](https://vtv.vn/doi-song.htm "Đời sống") [công nghệ](https://vtv.vn/cong-nghe.htm "Công nghệ") [giáo dục](https://vtv.vn/giao-duc.htm "Giáo dục") [video](https://vtv.vn/video.htm "Video") [podcast](https://vtv.vn/podcast.htm "Podcast")
+THỜI BÁO VTV  [ ![logo](https://static.mediacdn.vn/vtv.vn/images/logo-ft.png) ](https://vtv.vn/ "Thời báo VTV - Đài Truyền hình Việt Nam | VTV.vn")
+Theo dõi báo trên 
+[ ](https://www.facebook.com/baodientuvtv "Facebook vtv.vn") [ ](https://youtube.com/@vtvtimes "YouTube") [ ](https://vtv.vn/phap-luat/{https:/tiktok.com/@vtv.times "TikTok")
+Cơ quan chủ quản:  Đài Truyền hình Việt Nam 
+Cơ quan báo chí:  Thời báo VTV 
+Giấy phép hoạt động báo in và báo điện tử số   
+483/GP-BTTTT cấp ngày 29/12/2023 
+Tổng Biên tập:  Vũ Thanh Thủy 
+Phó Tổng Biên tập:  Nguyễn Thị Mỹ Hạnh, Phạm Quốc Thắng, Nguyễn Trọng Ninh 
+Tổng đài VTV:  024.38 355 931 - 024.38 355 932 
+Ðiện thoại Thời báo VTV:  024.66 897 897 
+Email:  toasoan@vtv.vn 
+Liên hệ quảng cáo:  024-7300.7108 
+[ ![img](https://static.mediacdn.vn/vtv.vn/images/channle1.png) ](https://vfc.vtv.vn "VFC") [ ![img](https://static.mediacdn.vn/vtv.vn/images/channle2.png) ](https://tvad.com.vn "TVAd") [ ![img](https://static.mediacdn.vn/vtvthethao/images/vtv_tc.png) ](https://vtv.vn "VTV TC") [ ![img](https://static.mediacdn.vn/vtv.vn/images/channle3.png) ](https://vtv.vn "VTV Broadcom") [ ![img](https://static.mediacdn.vn/vtv.vn/images/channle4.png) ](https://ctv.vtv.vn "CTV") [ ![img](https://static.mediacdn.vn/vtv.vn/images/channle5.png) ](https://www.vtvcab.vn "VTVCab") [ ![img](https://static.mediacdn.vn/vtv.vn/images/channle6.png) ](https://www.kplus.vn "K+") [ ![img](https://static.mediacdn.vn/vtv.vn/images/channle7.png) ](https://vtv.vn "SCTV")
+® Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản. Ghi rõ nguồn VTV.vn khi phát hành lại thông tin từ website này. 
+[ ](javascript:; "Top")
+**Bạn cần đăng nhập để thực hiện chức năng này!**
+[Đăng nhập](javascript:;)
+Bình luận không đăng nhập
+####  Bạn không thể gửi bình luận liên tục.  
+Xin hãy đợi 60 giây nữa.
+Thông báo
+Đóng

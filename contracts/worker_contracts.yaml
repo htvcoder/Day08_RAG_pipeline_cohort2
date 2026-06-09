@@ -1,0 +1,86 @@
+supervisor:
+  required_input:
+    - task
+    - history
+  required_output:
+    - supervisor_route
+    - route_reason
+    - risk_high
+    - history
+
+retrieval_worker:
+  required_input:
+    - task
+  required_output:
+    - retrieved_chunks
+    - workers_called
+    - worker_io_log
+  chunk_schema:
+    content: string
+    score: float
+    metadata:
+      source_file: string
+      source_type: string
+      title: string
+      chunk_index: integer
+
+policy_tool_worker:
+  required_input:
+    - task
+  required_output:
+    - policy_result
+    - retrieved_chunks
+    - mcp_tools_used
+    - mcp_results
+    - workers_called
+    - worker_io_log
+  policy_result_schema:
+    decision: string
+    applicable_policy: string
+    exceptions: list
+    requires_approval: boolean
+    risk_level: string
+    evidence_sources: list
+
+synthesis_worker:
+  required_input:
+    - task
+    - retrieved_chunks
+    - policy_result
+    - hitl_triggered
+  required_output:
+    - answer
+    - sources
+    - confidence
+    - workers_called
+    - worker_io_log
+
+mcp_tools:
+  search_kb:
+    required_output:
+      - chunks
+      - sources
+      - tool_call
+  get_ticket_info:
+    required_output:
+      - ticket_id
+      - severity
+      - on_call
+      - notified
+      - escalation_steps
+      - tool_call
+
+trace_schema:
+  required_fields:
+    - run_id
+    - task
+    - supervisor_route
+    - route_reason
+    - workers_called
+    - mcp_tools_used
+    - retrieved_sources
+    - final_answer
+    - confidence
+    - hitl_triggered
+    - latency_ms
+    - timestamp

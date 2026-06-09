@@ -1,0 +1,16 @@
+# Refund Policy v4
+
+## Scope
+This policy applies to physical products sold through the customer support channel, including standard orders and approved promotional campaigns.
+
+## Defective Product Rule
+If the customer reports a verified defective product within 7 calendar days of delivery, support may open a refund review and request photo or diagnostic evidence. A full refund is allowed after defect verification and supervisor confirmation.
+
+## Flash Sale Exception
+Flash Sale orders follow the same defective product rule, but the refund cannot be executed by an individual agent alone. A support supervisor must approve the exception before finance processes the refund.
+
+## Digital Product Exception
+Digital products are normally non-refundable after activation. A refund may be considered only when there is proven billing duplication, failed delivery, or a platform-side access defect.
+
+## Approval Rules
+Refunds above 200 USD, Flash Sale exceptions, and disputed refund requests require supervisor approval. Finance must log the approval reference in the ticket before payout.

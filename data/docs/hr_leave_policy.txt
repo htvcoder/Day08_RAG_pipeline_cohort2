@@ -1,0 +1,13 @@
+# HR Leave Policy
+
+## Annual Leave
+Full-time employees receive annual leave according to their contract and local labor law. Leave requests should be submitted in the HR system at least 3 working days in advance when possible.
+
+## Sick Leave
+Employees who are unexpectedly sick should notify their manager and file the leave record as soon as possible after the absence begins.
+
+## Approval
+Managers approve standard leave based on team coverage. HR supports exception handling for extended leave and compliance cases.
+
+## Scope Note
+This policy is not part of the IT helpdesk or refund workflow and can be used as an example of a non-central routing case.

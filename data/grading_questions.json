@@ -1,0 +1,10 @@
+{
+  "note": "mock_grading_questions_for_local_validation",
+  "questions": [
+    "Ticket P1 lúc 2am - escalation xảy ra thế nào và ai nhận thông báo?",
+    "Contractor cần Admin Access để sửa P1 khẩn cấp - quy trình tạm thời là gì?",
+    "Khách hàng Flash Sale yêu cầu hoàn tiền vì sản phẩm lỗi - policy nào áp dụng?",
+    "Digital product đã kích hoạt có được refund không?",
+    "Unknown error code xuất hiện nhưng mô tả không rõ - hệ thống nên route thế nào?"
+  ]
+}

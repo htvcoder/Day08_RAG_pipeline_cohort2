@@ -1,0 +1,16 @@
+# Access Control SOP
+
+## Standard Access Requests
+Normal access requests must use the approved access form and include business justification, manager approval, and the requested expiry date.
+
+## Contractor Access
+Contractors receive the minimum access needed for the assigned task. Contractor admin access is prohibited by default and must be reviewed by both the hiring manager and security owner.
+
+## Emergency Temporary Access for P1
+During a confirmed P1 incident, temporary elevated access may be granted if the incident commander confirms the operational need. Admin access must be time-boxed, documented in the incident ticket, and revoked immediately after the emergency task is complete.
+
+## Approval Requirements
+Temporary admin access for a contractor requires manager approval, security approval, and explicit incident commander confirmation during P1 handling.
+
+## Audit and Revocation
+Every emergency access grant must be logged with requester, approver, reason, start time, and expiry time. Access must auto-expire within 4 hours unless renewed through the same approval chain.

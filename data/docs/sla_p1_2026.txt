@@ -1,0 +1,16 @@
+# SLA P1 2026
+
+## P1 Definition
+A P1 incident is a critical production outage, severe security event, or major customer-facing failure with immediate business impact.
+
+## 2am Escalation Flow
+When a P1 ticket is created at 2am, the primary on-call engineer must be paged immediately. If there is no acknowledgment within 10 minutes, the incident commander and secondary on-call engineer are paged automatically.
+
+## Notification Chain
+The required notification list for a confirmed P1 includes the primary on-call engineer, incident commander, support lead, and engineering manager. For high-value customers, the customer escalation manager is added.
+
+## Timeline
+Initial triage begins immediately, stakeholder notification happens within 15 minutes, and status updates continue every 30 minutes until service is restored.
+
+## On-Call Roles
+The primary on-call engineer leads the first response, the incident commander coordinates cross-team actions, and the support lead manages communication to internal support teams.

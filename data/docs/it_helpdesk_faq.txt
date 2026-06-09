@@ -1,0 +1,16 @@
+# IT Helpdesk FAQ
+
+## Ticket Priority
+P1 is for critical business outages, P2 is for high-impact but partial degradation, P3 is for standard service issues, and P4 is for low-priority requests.
+
+## Password Reset
+Users must pass identity verification before a password reset is completed. Self-service reset is preferred when available.
+
+## Access Requests
+All access requests should include justification, requested system, access level, and manager approval. Elevated access needs a higher approval tier.
+
+## Incident Escalation
+If a support agent suspects a production outage, they must create or update the incident ticket and follow the P1 or P2 escalation guide based on business impact.
+
+## Ticket Ownership
+The assignee must post an update before handoff, and unresolved urgent tickets must retain a clearly named owner at all times.

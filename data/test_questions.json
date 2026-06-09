@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Ticket P1 lúc 2am - escalation xảy ra thế nào và ai nhận thông báo?",
+    "category": "p1_escalation"
+  },
+  {
+    "question": "SLA cho ticket P1 yêu cầu cập nhật trạng thái bao lâu một lần?",
+    "category": "p1_escalation"
+  },
+  {
+    "question": "Ai là người chịu trách nhiệm first response trong incident P1?",
+    "category": "p1_escalation"
+  },
+  {
+    "question": "Contractor cần Admin Access để sửa P1 khẩn cấp - quy trình tạm thời là gì?",
+    "category": "access_policy"
+  },
+  {
+    "question": "Emergency P1 access cho contractor cần những phê duyệt nào?",
+    "category": "access_policy"
+  },
+  {
+    "question": "Admin access tạm thời phải hết hạn và bị revoke như thế nào?",
+    "category": "access_policy"
+  },
+  {
+    "question": "Khách hàng Flash Sale yêu cầu hoàn tiền vì sản phẩm lỗi - policy nào áp dụng?",
+    "category": "refund_policy"
+  },
+  {
+    "question": "Digital product đã kích hoạt có được refund không?",
+    "category": "refund_policy"
+  },
+  {
+    "question": "Refund dispute trên đơn Flash Sale trên 200 USD cần approval gì?",
+    "category": "refund_policy"
+  },
+  {
+    "question": "Password reset cần bước xác minh nào trước khi helpdesk xử lý?",
+    "category": "faq"
+  },
+  {
+    "question": "Ticket priority P2 khác P1 ở điểm nào trong FAQ?",
+    "category": "faq"
+  },
+  {
+    "question": "Leave policy có thuộc core workflow của IT helpdesk không?",
+    "category": "hr_irrelevant"
+  },
+  {
+    "question": "Một contractor cần admin access trong P1 lúc 2am thì vừa theo SLA nào vừa theo SOP nào?",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Một yêu cầu refund Flash Sale cho defective product cần policy refund nào và ai phải approve?",
+    "category": "multi_hop"
+  },
+  {
+    "question": "Unknown error code xuất hiện nhưng mô tả không rõ - hệ thống nên route thế nào?",
+    "category": "human_review"
+  }
+]
